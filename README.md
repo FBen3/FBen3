@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I like writing and/or customizing programs to help me work 👨🏼‍💻.  
+My next mini-project might be using [BTT](https://community.folivora.ai) to adjust my lights using the touch bar 💡. 
+
 <!--
 **FBen3/FBen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
