@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like writing and/or customizing programs to help me work 👨🏼‍💻.  
+I like building and/or customizing tools to help me work 👨🏼‍💻.  
 My next mini-project might be using [BTT](https://community.folivora.ai) to adjust my lights using the touch bar 💡. 
 
 <!--
