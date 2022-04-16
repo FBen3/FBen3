@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like building and customizing tools to help me work 👨🏼‍💻
+I like building and customizing tools to help me work 👨🏼‍💻  
 I am interested in human & brain computer interfaces 🧠💻
 
 <!--
