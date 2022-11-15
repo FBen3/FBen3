@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I like building and customizing tools to help me work 👨🏼‍💻  
-I am interested in human- & brain-computer interfaces 🧠💻
+I'm also interested in brain-computer interfaces 🧠💻
 
 <!--
 **FBen3/FBen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
